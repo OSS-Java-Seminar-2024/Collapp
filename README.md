@@ -25,4 +25,5 @@
 - **Attachments:** Share important files and documents directly within tasks for easy access by all team members.
 
 
-![FAKS](https://github.com/user-attachments/assets/de52c03d-dbe2-4f29-ae27-5edd410cdb23)
+
+![FAKS](https://github.com/user-attachments/assets/b051ef3a-a68b-4fab-b87b-d2646f5c4602)
